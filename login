@@ -54,9 +54,9 @@ span.psw {
     <label for="pswd"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="pswd" required>
     
-    <!-- <a href="file:///C:/Users/Jade%20Cabrera/home%20page.html"> -->
+    <a href="">
         <button type="submit">Login</button>
-    <!-- </a> -->
+    </a>
         
   </div>
 </form>
