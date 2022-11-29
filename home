@@ -26,10 +26,11 @@
 <body>n
     <div class="container">
         <a href="https://www.google.com/">
-            <button class="btn btn-primary btn-lg">
+            <button type="button" style="font: bold 14px Arial;">
                 Reflection Time
             </button>
         </a>
     </div>
+    <!-- <button type="button" style="font: bold 14px Arial;">Download the book </button><br /> -->
 </body>
 </html>
